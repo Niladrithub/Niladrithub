@@ -6,7 +6,7 @@
 - https://twitter.com/Niladr_i
 - https://www.instagram.com/niladr.i_/
 - e-mail: royniladri@pm.me
-- blog: https://niladrisroy.blogspot.com
+- 
 <!--- 
 Niladrithub/Niladrithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
