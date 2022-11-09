@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on linux and python
 - 📫 How to reach me : 
 - https://twitter.com/rudroniladri
-- https://www.instagram.com/rudroniladri_/
+- https://www.instagram.com/rudroniladri/
 - e-mail: royniladri@pm.me
 - 
 <!--- 
