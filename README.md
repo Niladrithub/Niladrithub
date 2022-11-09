@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on linux and python
 - 📫 How to reach me : 
-- https://twitter.com/Niladr_i
-- https://www.instagram.com/niladr.i_/
+- https://twitter.com/rudroniladri
+- https://www.instagram.com/rudroniladri_/
 - e-mail: royniladri@pm.me
 - 
 <!--- 
