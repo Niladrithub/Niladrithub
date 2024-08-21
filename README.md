@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Niladrithub
-- 👀 I’m interested in python, javascript and linux
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on linux and python
+- 📌Studying Medicine(MBBS)👨‍⚕️🩺
+- 👀 I’m interested in python🐍, javascript🌋 and linux🐧
+- 💞️ I love linux🐧 and python🐍
 - 📫 How to reach me : 
-- https://twitter.com/rudroniladri
-- https://www.instagram.com/rudroniladri/
+- https://niladri.carrd.co/
+- https://www.instagram.com/thakurrmoshai/
 - e-mail: royniladri@pm.me
 - 
 <!--- 
