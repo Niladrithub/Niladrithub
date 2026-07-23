@@ -6,7 +6,7 @@
 - https://niladri.carrd.co/
 - https://www.threads.net/@thakurrmoshai
 - https://www.instagram.com/thakurrmoshai/
-- https://www.linkedin.com/in/rudroniladri/
+- https://www.linkedin.com/in/niladrisekharr/
 - e-mail: royniladri@pm.me
   
 <!--- 
